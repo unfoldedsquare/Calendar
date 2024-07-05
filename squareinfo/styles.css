@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    margin-bottom: 10px;
+    flex-shrink: 0;
+}
+
+#calendar {
+    display: flex;
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+#time-column {
+    flex-shrink: 0;
+    width: 60px;
+    border-right: 1px solid #ddd;
+    padding-top: 40px;
+    position: relative;
+}
+
+#time-column div {
+    height: 40px;
+    border-bottom: 1px solid #ddd;
+    text-align: right;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+#week-column {
+    display: flex;
+    flex-grow: 1;
+    position: relative;
+}
+
+.day {
+    flex-grow: 1;
+    border-left: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+
+.day h2 {
+    margin: 0;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.hour-line {
+    position: absolute;
+    left: 0;
+    right: 0;
+    border-top: 1px solid #ddd;
+    z-index: 1;
+}
+
+.event {
+    position: absolute;
+    background-color: #e0e0ff;
+    border: 1px solid #888;
+    border-radius: 4px;
+    padding: 5px;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.event h3 {
+    margin: 0;
+    font-size: 14px;
+}
+
+.event p {
+    margin: 5px 0;
+    font-size: 12px;
+}
+
+.event-details {
+    font-size: 11px;
+}

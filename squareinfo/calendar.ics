@@ -1,0 +1,2994 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN X-WR-CALNAME: Tripleseat
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:America/New_York
+BEGIN:STANDARD
+DTSTART:20231105T020000
+RDATE:20231105T020000
+RDATE:20241103T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20240310T020000
+RDATE:20240310T020000
+RDATE:20250309T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20230810T203339Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20231228T183000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20231228T163000
+LAST-MODIFIED;VALUE=DATE-TIME:20240419T212811Z
+UID:https://thesquare.tripleseat.com/events/33959043
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/33959043\n[Gue
+ sts: 100 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/33959043
+SUMMARY:[T] District Fray Acoustic Music Night
+LOCATION:[The Square] Atrium Plaza and Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231114T170925Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240109T183000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240109T163000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36010073
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36010073\n[Gue
+ sts: 50 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36010073
+SUMMARY:[C] Andersen Happy Hour
+LOCATION:[The Square] The Nook
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231120T043025Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240117T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240117T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36144950
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36144950\n[Gue
+ sts: 40 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36144950
+SUMMARY:[D] JHPIEGO Holiday Party
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231120T052040Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240111T213000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240111T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36145069
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36145069\n[Gue
+ sts: 40 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36145069
+SUMMARY:[C] Speigel McDiarmid holiday party in January
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231121T180735Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240127T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240127T193000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36187894
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36187894\n[Gue
+ sts: 20 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36187894
+SUMMARY:[C] Schneidmill Birthday Dinner
+LOCATION:[The Square] El Celler and Casa Private Dining Room
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231127T160128Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240104T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240104T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36255408
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36255408\n[Gue
+ sts: 6 expected]\nFrom Liz: I hope you are staying dry in all this rain.
+  Will you please let me know if there is a small board room available fo
+ r January 4th between 8am-5pm for 6 people? We will want to have breakfa
+ st and lunch and then grab drinks in the bar at the end of the day. \n\n
+ - I'm waiting to hear back on the confirmed meeting size. Will update on
+ ce I receive headcount. \n\n
+URL:https://thesquare.tripleseat.com/events/36255408
+SUMMARY:[C] Morgan Stanley - Board Meeting
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231213T180533Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240110T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240110T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36622178
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36622178\n[Gue
+ sts: 25 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36622178
+SUMMARY:[C] LexisNexis Happy Hour
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231214T232727Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240318T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240318T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36661017
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36661017\n[Gue
+ sts: 100 expected]\nHi Joseph\, Michael\, and Kari—\n \nThank you so muc
+ h for all your preparations over the past few months for this event. I’m
+  now attaching what is our final high-level agenda. I’ve also summarized
+  below what I think were key points or questions still to be communicate
+ d after our run through last Tuesday. \n \nLayout--Dupont and Logan \n13
+ 0 chairs set in theater style (we’re expecting 100 but just to be safe)\
+ nLeave slight space in chairs for easy pulling of partition\n@Nicynski\,
+  JosephPartition to be pulled: \nDay 1: 3:30pm shut to 5pm open\nDay 2: 
+ 1pm shut to 3pm open\nPodium and bar stools at front of room\nTable off 
+ to the side of room over power source and ethernet cable for connecting 
+ Zoom\n \nEasels for flipchhars\n@Nicynski\, Joseph You mentioned that yo
+ u were buying extra and would have 8. We’d like to rent 8 of them\, plea
+ se. Please confirm if this is fine!\n \nIT\n@Michael Kurtzke confirming 
+ you said you’d be there by 7am on these days for IT set up – an hour bef
+ ore the program starts. We will be there too!\n \nCatering:\nBreakfast/s
+ nacks/all day beverages in conference center lounge area\nLunch in reser
+ ved section of atrium (@Kari Payne can you confirm where this will be?)\
+ n \nMarketplace setup\nMarketplace will be set up on Friday afternoon an
+ d Angela will go downstairs to finalize placement with the set up vendor
+ \, but Angela and Joseph generally discussed:\n2 tables on the side of t
+ he coat closet (just before you get to breakout rooms)\n3 tables on one 
+ side of the curtained wall in the main lounge area\n7 tables spread out 
+ along the hallway line of the side lounge area (maybe sprinkle 1-2) in a
+ nother spot of that section if it makes sense\n \nLet me know if you hav
+ e any questions!\n \nBest\,\n\n
+URL:https://thesquare.tripleseat.com/events/36661017
+SUMMARY:[D] JHPIEGO DAY 1
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231214T232727Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240319T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240319T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36661018
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36661018\n[Gue
+ sts: 100 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36661018
+SUMMARY:[D] JHPIEGO DAY 2
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231215T211217Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240312T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240312T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36678234
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36678234\n[Gue
+ sts: 14 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36678234
+SUMMARY:[C] UVA Valencia Program Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231218T183145Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240131T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240131T110000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36705831
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36705831\n[Gue
+ sts: 111 expected]\nEvent was referred to us by GWU. Invitation only gro
+ up looking for space. They like the idea of doing a dine around / pay to
+  play at lunch. Everyone will grab lunch upstairs and come down to netwo
+ rk during lunch. \n\nWho is UIDP: \nMostly organiztions/uni’s in the US\
+ nApple\, AT&T\, TMobile\, GWU\, etc\nCollaboration between Universities 
+ & Enterprises\nDoing this event in partnership with mcowser quinn (pr/go
+ v affairs)\n\nEvent: \n- 4-5hrs in the conf center. 11:30am – 5:30pm\n- 
+ Low effort\, mid range event\n- Will have a website w/ registration \n- 
+ Need pictures\, registration area\, etc\n- Security needs: Morgan will g
+ et this out to us\n- We’ll start with lunch at the event\n- Session: Not
+  a lot of presentations. 3-4 people up front on chairs. Event is casual.
+  20mins of questions\, 20-25mins of open dialogue\n- AV Needs: Would nee
+ d 3 mics. We will need to have an addt’l mic installed\n\nFollow up: \n-
+  Reach out to discuss the F&B plan and confirm that they want dine aroun
+ d. Would be interested in bev station for the event\n- We briefly discus
+ sed something in the evening up at the atrium bar\n- Natoshia runs logis
+ tics for the event\n\n
+URL:https://thesquare.tripleseat.com/events/36705831
+SUMMARY:[D] UIDP Panel Discussion
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231218T211433Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240305T150000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240305T110000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36713295
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36713295\n[Gue
+ sts: 45 expected]\nWilkes Artis Chartered wants to book the conf space M
+ arch 5-7th for lunch meetings. Buffet style. Not sure on the specifics o
+ n the guest count. They're a tenant that reached out for dates in march 
+ for lunch meetings. Once confirmed we can book in Simplybook.me\n\nNotes
+  from Karen: \nWe’d like to go ahead & reserve those two rooms for March
+  5\, 6\, and 7 of next year.  Our invitations say 12-2\, so we usually s
+ et up and have people arriving as early as 11:30.  They usually end a li
+ ttle early\, so are mostly cleared out by 2:00.\n\nWe’d need a buffet se
+ t-up each day (menu TBD)\, and lunch would be served about 12:20.  (firs
+ t 20 minutes for mingling).\n\n
+URL:https://thesquare.tripleseat.com/events/36713295
+SUMMARY:[D] Wilkes Artis Lunch Meeting Day
+LOCATION:[The Square] Dupont
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231219T140318Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240609T010000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240608T200000
+LAST-MODIFIED;VALUE=DATE-TIME:20240610T133917Z
+UID:https://thesquare.tripleseat.com/events/36722361
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36722361\n[Gue
+ sts: 750 expected / 750 guaranteed]\nHello Joseph\, I hope you are well.
+  I believe I may have met you in passing down in Miami\, at our DC happy
+  hour\, during my role as an event producer with the DC Commission on th
+ e Arts & Humanities. I run Scorpio Entertainment here in DC and I am loo
+ kin\n\n\n\n
+URL:https://thesquare.tripleseat.com/events/36722361
+SUMMARY:[C] Capital Pride by Scorpio Entertainment LLC.
+LOCATION:[The Square]  The Square (Buyout)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231219T162723Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240125T150000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240125T130000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36726770
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36726770\n[Gue
+ sts: 10 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36726770
+SUMMARY:[C] Destination DC Global Lunch
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231220T181051Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240105T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240105T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36761981
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36761981\n[Gue
+ sts: 59 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36761981
+SUMMARY:[C] WSJ Happy Hour
+LOCATION:[The Square] The Nook
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231226T181952Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240109T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240109T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36843659
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36843659\n[Gue
+ sts: 16 expected]\nHi - I'm writing to see if you would have room for a 
+ group of 18-22 (still locking down the exact number) on Jan 9 and if so\
+ , what that would cost. From your private events page it looks like Tere
+ sa's table could be a perfect fit.  Please let me know.  It'd be excitin
+ g if we could make this work--I haven't been to the restaurant yet but I
+  attended a pop up over the summer and had a wonderful time!\n\n\n
+URL:https://thesquare.tripleseat.com/events/36843659
+SUMMARY:[C] Bates White Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231227T170148Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240308T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240308T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36855754
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36855754\n[Gue
+ sts: 23 expected]\nHi -\n\nI am interested in booking Teresa’s Table for
+  a group of 20 on Friday\, March 8.  Is it available?  If so\, please se
+ nd me details about cost and what’s provided and how to book.  Thanks ve
+ ry much for your help. \n\nChas \n\nCharles Tyler\nAssociate Professor o
+ f Law\nThe George Washington University Law School\n\nSelect publication
+ s:\nCommon Law Statutes\nThe Myth of the Laboratories of Democracy\nThe 
+ Adjudicative Model of Precedent\nAdministrative Severability Clauses\n\n
+URL:https://thesquare.tripleseat.com/events/36855754
+SUMMARY:[C] GWU Law Dinner
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20231227T220516Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240116T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240116T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36869712
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36869712\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36869712
+SUMMARY:[C] Robinson Miller Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240102T150858Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240110T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240110T190000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36972519
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36972519\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/36972519
+SUMMARY:[C] CGSH Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240102T194441Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20250308T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20250308T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/36985244
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/36985244\n[Gue
+ sts: 150 expected]\nHello - I am curious if you all have the capability 
+ to be a wedding venue for ~150 in March of 2025. I don't see it advertis
+ ed anywhere\, so no problem if that is not possible\, but figured I woul
+ d ask! Thank you! Maggie\n\n
+URL:https://thesquare.tripleseat.com/events/36985244
+SUMMARY:[P] Maggie and Connor Wedding Reception
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240103T192740Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240203T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240203T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240419T212811Z
+UID:https://thesquare.tripleseat.com/events/37015045
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37015045\n[Gue
+ sts: 150 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37015045
+SUMMARY:[C] City Cast DC Live Podcast Taping (MKTG)
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240103T193116Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240104T120000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240104T110000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37015317
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37015317\n[Gue
+ sts: 75 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37015317
+SUMMARY:[C] FY24 Green Book Event with Mayor Bowser:
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240103T203941Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240130T150000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240130T130000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37019333
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37019333\n[Gue
+ sts: 14 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37019333
+SUMMARY:[C] World Bank Lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240105T161330Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240111T183000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240111T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37069891
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37069891\n[Gue
+ sts: 25 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37069891
+SUMMARY:[C] bp Breakfast | Lunch Meeting
+LOCATION:[The Square] Logan Circle
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240112T165246Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240113T113000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240113T111500
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37246992
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37246992\n[Gue
+ sts: 25 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37246992
+SUMMARY:[C] Richie Family Birthday
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240112T175321Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240123T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240123T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37249843
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37249843\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37249843
+SUMMARY:[C] Amex GBT | World Bank Lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240115T041214Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240221T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240221T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37280801
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37280801\n[Gue
+ sts: 16 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37280801
+SUMMARY:[C] AEG Principles Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240115T053632Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20250408T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20250408T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37280970
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37280970\n[Gue
+ sts: 150 expected]\nWe are checking to see if the capacity of the confer
+ ence room would work for one of our events. Name: PVA Air Travel Confere
+ nce Date: Two Days the week of April 7-11\, 2025 Number of People: 125-1
+ 50 depending on capacity\, estimated 20-30 wheelchair user\n\n\n\n
+URL:https://thesquare.tripleseat.com/events/37280970
+SUMMARY:[P] PVA Conference
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240116T212305Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240118T081500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240118T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37325675
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37325675\n\n[G
+ uests: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37325675
+SUMMARY:[C] Tishman Speyer Breakfast Delivery
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240118T145634Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240126T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240126T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37370093
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37370093\n[Gue
+ sts: 9 expected]\nHello!\n\nI'm a friend of Richie's and would love to b
+ ring a group of women for a casual business lunch on 1/26 at noon. We wi
+ ll be about 12 people and we typically spend no more than two hours. The
+ re will be one check and we typically like to order several plates to sh
+ are amongst the group (no entrees). Let me know if this is a possibility
+  Thanks so much!\n\nAllison\n\n-- \n\nallison cooke\, iida\, leed ap\n\n
+ principal\n\n\n\nCORE\n\n1010 wisconsin ave nw suite 405\n\nwashington\,
+  dc 20007\n\n\n\no 202.466.6116 \n\nc 703.231.7031\n\nacc@coredc.com\n\n
+URL:https://thesquare.tripleseat.com/events/37370093
+SUMMARY:[C] Core Lunch
+LOCATION:[The Square] Tapas Bar
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240119T053415Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240215T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240215T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240502T165035Z
+UID:https://thesquare.tripleseat.com/events/37409846
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37409846\n[Gue
+ sts: 20 expected]\nTo whom it may concern:\n\n \n\nJust checking on avai
+ lability to host the above event at Casa Teresa.   We will have about 20
+ ppl.  Can you please confirm whether you can accommodate us?\n\n \n\nKin
+ d regards\n\n \n\nWinnie\n\n \n\n ​​​​Winnie A. Murray \n​ Executive Off
+ ice\, Executive Assistant\n​ National Multifamily Housing Council\n 1775
+  Eye Street\, N.W.\, Suite 1100\n Washington\, D.C. 20006 \n (O): 202/97
+ 4-2390 | (F): 202/775-0112\n​ www.nmhc.org | wmurray@nmhc.org\n\n\n\n\n\
+ n
+URL:https://thesquare.tripleseat.com/events/37409846
+SUMMARY:[C] NMHC Happy Hour
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240119T054252Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240119T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240119T171500
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37409879
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37409879\n[Gue
+ sts: 11 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37409879
+SUMMARY:[C] BDR Solutions Dinner
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240121T234755Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240201T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240201T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37449674
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37449674\n[Gue
+ sts: 15 expected]\nHi Kari\,\n\n \n\nI received your contact info from A
+ manda McGinn who had a great experience planning a happy hour for one of
+  our practice groups at Akin in December.  I am reaching out to plan a h
+ appy hour for about 15 people on February 1st at 5:30 PM. Please let me 
+ know if this date/time is available. I’d be happy to provide any additio
+ nal information needed for next steps.  \n\n \n\nThanks for your help!\n
+ \nMadeleine\n\n \n\nMadeleine Jenkins | Attorney Recruiting & Developmen
+ t Assistant\n\nAkin\n\nRobert S. Strauss Tower | 2001 K Street N.W. | Wa
+ shington\, DC 20006 | USA | Direct: +1 202.416.5061 | Internal: 25061\nF
+ ax: +1 202.887.4288 | Mobile: +1 203.548.1413 | jenkinsm@akingump.com | 
+ akingump.com\n\nSee Your Future Here: Virtual Reality Tours\n\n
+URL:https://thesquare.tripleseat.com/events/37449674
+SUMMARY:[C] Akin Gump Happy Hour
+LOCATION:[The Square] The Nook
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240122T031239Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240130T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240130T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37450820
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37450820\n[Gue
+ sts: 11 expected]\nPlease consider a good spot that allows guests to tal
+ k as this is an important lunch meeting.\n\n
+URL:https://thesquare.tripleseat.com/events/37450820
+SUMMARY:[C] Working lunch - Deputies Chiefs of Mission of Iberoamerica
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240122T201842Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240201T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240201T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37469784
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37469784\n\n\n
+URL:https://thesquare.tripleseat.com/events/37469784
+SUMMARY:[C] Zo - First Thursdays (MKTG)
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240122T202108Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240212T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240212T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37469925
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37469925\n\n\n
+URL:https://thesquare.tripleseat.com/events/37469925
+SUMMARY:[C] Flower Workshop (MKTG)
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240122T203317Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240216T100000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240216T070000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37470646
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37470646\n\n\n
+URL:https://thesquare.tripleseat.com/events/37470646
+SUMMARY:[C] Creative Mornings  (MKTG)
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240123T181450Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240125T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240125T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37507084
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37507084\n[Gue
+ sts: 60 expected]\nCasa Teresa desired for retirement party 4-7pm...\n\n
+URL:https://thesquare.tripleseat.com/events/37507084
+SUMMARY:[C] SSI Event
+LOCATION:[The Square] Uptown (Stall 1) and El Zocalo (Stall 4)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240124T155740Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240125T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240125T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37534586
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37534586\n[Gue
+ sts: 35 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37534586
+SUMMARY:[D] GEF | World Bank  Happy Hour
+LOCATION:[The Square] The Nook
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240124T171436Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240125T183000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240125T163000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37538100
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37538100\n[Gue
+ sts: 30 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37538100
+SUMMARY:[D] World Bank Happy Hour
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240125T180919Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240912T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240912T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37571505
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37571505\n[Gue
+ sts: 300 expected]\nWe are searching for an event venue for our upcoming
+  Ten-Year Anniversary Summit. Here are some of the key details: Attendee
+ s: up to 300 Date: September 12\, 2024 Time: 9am – 5pm Ideal setup: an a
+ uditorium with access to existing audio-visual equipment\n\n
+URL:https://thesquare.tripleseat.com/events/37571505
+SUMMARY:[P] Halcyon House Anniversary Summit
+LOCATION:[The Square] Conference Center and Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240126T152213Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240221T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240221T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37593223
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37593223\n[Gue
+ sts: 20 expected]\nHi - I'm looking to have a happy hour with light food
+  for team members. Is it possible to reserve some space\, order catered 
+ food and drink tickets or specialty cocktails? Thanks! Nicole\n\n
+URL:https://thesquare.tripleseat.com/events/37593223
+SUMMARY:[C] Bank of America Happy Hour
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240130T025423Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240226T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240226T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37666559
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37666559\n[Gue
+ sts: 17 expected]\nI would like to reserve a private from for this event
+ .\n\n
+URL:https://thesquare.tripleseat.com/events/37666559
+SUMMARY:[C] McKinsey & Company ( Sarah Tucker Ray) Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240130T030741Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240305T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240305T190000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37666639
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37666639\n[Gue
+ sts: 11 expected / 10 guaranteed]\nHello\,This is for a business group c
+ elebratory dinner for approx 11 people.  Time - 7 pm.  Please advise if 
+ you have availability for a private room or semi-private area.  Feel fre
+ e to email or call after 8 am.  Look forward to hearing from you.  Th\n\
+ n
+URL:https://thesquare.tripleseat.com/events/37666639
+SUMMARY:[C] Scheer Partners Dinner
+LOCATION:[The Square] Main Dining Room
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240131T194721Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240313T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240313T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37715950
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37715950\n[Gue
+ sts: 18 expected]\nPlease let me know if there is a special menu for pri
+ vate events\, if there is a fee associated with renting the room\, and i
+ f there is a food/beverage minimum for renting a room. Thank you!\n\n
+URL:https://thesquare.tripleseat.com/events/37715950
+SUMMARY:[C] The National Governing Board of Common Cause
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240131T224210Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240711T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240711T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37728349
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37728349\n[Gue
+ sts: 30 expected]\nWe need to be flexible with dates\, I just picked a d
+ ate in JULY. Happy to talk through this once we connect. Thanks!\n\n
+URL:https://thesquare.tripleseat.com/events/37728349
+SUMMARY:[P] Fried Frank Event
+LOCATION:[The Square] Conference Center and Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240201T181010Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20241004T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20241004T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37755471
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37755471\n[Gue
+ sts: 400 expected]\nNight of Hope is the annual fundraiser for the DC-ba
+ sed organization Community of Hope. Community of Hope's mission is to im
+ prove health and end family homelessness to make Washington\, DC more eq
+ uitable. This event is cocktail style with passed food\, two\n\n
+URL:https://thesquare.tripleseat.com/events/37755471
+SUMMARY:[P] Night of Hope
+LOCATION:[The Square] The Nook\, Uptown (Stall 1)\, Atrium Plaza\, The S.
+ ..
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240202T182013Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240206T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240206T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37785351
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37785351\n[Gue
+ sts: 11 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37785351
+SUMMARY:[C] Tishman Speyer Investor Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240202T203614Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240208T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240208T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37791555
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37791555\n[Gue
+ sts: 11 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37791555
+SUMMARY:[C] Ilgin Svmer
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240206T161752Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240928T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240928T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240424T182721Z
+UID:https://thesquare.tripleseat.com/events/37856307
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37856307\n[Gue
+ sts: 100 expected]\nGood evening\, My name is Jeannie Shen and I am part
+  of a national non-profit organization called Taiwanese American Profess
+ ionals that enhances the Taiwanese American community by networking indi
+ viduals interested in professional and career development\,\n\n\n\n
+URL:https://thesquare.tripleseat.com/events/37856307
+SUMMARY:[D] Taiwanese American Professionals
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240206T172658Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240207T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240207T150000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37859772
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37859772\n[Gue
+ sts: 25 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37859772
+SUMMARY:[C] World Bank Happy Hour
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240206T213209Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240221T090000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240221T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37873218
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37873218\n[Gue
+ sts: 30 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37873218
+SUMMARY:[C] VIP Tenant Breakfast
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240207T171133Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240314T120000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240314T083000
+LAST-MODIFIED;VALUE=DATE-TIME:20240419T212811Z
+UID:https://thesquare.tripleseat.com/events/37890238
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37890238\n[Gue
+ sts: 150 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37890238
+SUMMARY:[D] ConnectPreneur
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240208T180329Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240416T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240416T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240417T220446Z
+UID:https://thesquare.tripleseat.com/events/37923563
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37923563\n[Gue
+ sts: 225 expected / 225 guaranteed]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37923563
+SUMMARY:[C] Quanta Services Event
+LOCATION:[The Square] The Nook\, Uptown (Stall 1)\, Atrium Plaza\, The S.
+ ..
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240208T184509Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240221T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240221T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37925603
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37925603\n[Gue
+ sts: 25 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37925603
+SUMMARY:[C] World Bank Happy Hour
+LOCATION:[The Square] The Nook
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240208T201803Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240321T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240321T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37930198
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37930198\n[Gue
+ sts: 300 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37930198
+SUMMARY:[D] Creative Mornings Birthday Party
+LOCATION:[The Square] The Nook\, Uptown (Stall 1)\, Atrium Plaza\, and T.
+ ..
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240209T030759Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240229T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240229T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37941278
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37941278\n[Gue
+ sts: 25 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37941278
+SUMMARY:[C] CREBA Reception
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240209T171221Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240508T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240508T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240529T165457Z
+UID:https://thesquare.tripleseat.com/events/37949755
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37949755\n[Gue
+ sts: 200 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37949755
+SUMMARY:[C] Thirdway 15th Anniversary Reception
+LOCATION:[The Square] The Nook\, Atrium Plaza\, and Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240210T011138Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240301T133000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240301T113000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37966428
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37966428\n[Gue
+ sts: 7 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37966428
+SUMMARY:[C] IWA Team Lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240212T152209Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240213T181500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240213T161500
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37982536
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37982536\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37982536
+SUMMARY:[C] World Bank Tapas HH
+LOCATION:[The Square] Tapas Bar
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240212T165027Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240305T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240305T193000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/37986224
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/37986224\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/37986224
+SUMMARY:[C] Verra Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240212T223758Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240227T183000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240227T163000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38002343
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38002343\n[Gue
+ sts: 20 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38002343
+SUMMARY:[C] FRB Retirement Happy Hour
+LOCATION:[The Square] The Nook
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240213T173825Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240313T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240313T190000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38016263
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38016263\n[Gue
+ sts: 24 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38016263
+SUMMARY:[C] World Bank Happy Hour
+LOCATION:[The Square] The Nook
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240214T160122Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240625T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240625T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240621T171513Z
+UID:https://thesquare.tripleseat.com/events/38040817
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38040817\n[Gue
+ sts: 180 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38040817
+SUMMARY:[D] Blank Rome
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240214T163554Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240222T153000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240222T123000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38042110
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38042110\n[Gue
+ sts: 14 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38042110
+SUMMARY:[C] Blank Rome Lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240215T201436Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240319T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240319T190000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38078604
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38078604\n[Gue
+ sts: 135 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38078604
+SUMMARY:[C] Milbank Reception
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240216T165040Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240228T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240228T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38096590
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38096590\n[Gue
+ sts: 20 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38096590
+SUMMARY:[D] Amida
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240216T224423Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240229T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240229T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38112283
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38112283\n[Gue
+ sts: 16 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38112283
+SUMMARY:[C] Morrison Foerster Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240220T204022Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240314T133000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240314T113000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38169918
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38169918\n[Gue
+ sts: 14 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38169918
+SUMMARY:[C] Ricky Ventura Luncheon
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240222T223901Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240328T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240328T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38242787
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38242787\n[Gue
+ sts: 40 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38242787
+SUMMARY:[C] Ignyte Happy Hour
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240223T223501Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240411T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240411T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38272262
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38272262\n[Gue
+ sts: 26 expected]\nWines pre-selected:\nRossinyol de Moragas Cava\nAnoni
+ mos Os Dunares Albarino\nPares Balta Indigena Garnatxa\n\n
+URL:https://thesquare.tripleseat.com/events/38272262
+SUMMARY:[C] Lujan Birthday Dinner
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240223T224745Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240229T194500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240229T174500
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38272663
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38272663\n\n\n
+URL:https://thesquare.tripleseat.com/events/38272663
+SUMMARY:[C] Akin Gump Happy Hour
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240226T180458Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240229T120000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240229T114500
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38301901
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38301901\n\n\n
+ \n
+URL:https://thesquare.tripleseat.com/events/38301901
+SUMMARY:[D] Tishman Speyer Lunch & Learn
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240226T230158Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240306T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240306T110000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38319484
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38319484\n\n\n
+URL:https://thesquare.tripleseat.com/events/38319484
+SUMMARY:[D] Wilkes Artis Lunch
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240226T232040Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240307T130000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240307T110000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38320015
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38320015\n[Gue
+ sts: 55 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38320015
+SUMMARY:[D] Wilkes Artis Lunch - Day 3
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240227T161826Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240229T074500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240229T073000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38329631
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38329631\n\n[G
+ uests: 25 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38329631
+SUMMARY:[C] CW Financial Services Breakfast Drop
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240227T220235Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240515T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240515T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240521T184050Z
+UID:https://thesquare.tripleseat.com/events/38347635
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38347635\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38347635
+SUMMARY:[C] Vinyl Institute Dinner- Flavia Brandischok
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240228T142814Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240403T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240403T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38356583
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38356583\n[Gue
+ sts: 30 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38356583
+SUMMARY:[C] Mayer Brown Happy Hour
+LOCATION:[The Square] The Nook
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240228T160004Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240311T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240311T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38359249
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38359249\n[Gue
+ sts: 20 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38359249
+SUMMARY:[C] Morgan Stanley Graystone Meeting
+LOCATION:[The Square] Dupont
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240301T033325Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240314T150000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240314T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38412682
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38412682\n[Gue
+ sts: 30 expected]\n$59 per person served family style\n\nPARA COMENZAR |
+  TO BEGIN\nEscalivada Catalana\nopen fire roasted eggplants\, onions and
+  red peppers with escalivada vinagrette\n\nLas Croquetas de la Dolors\nc
+ reamy chicken and  béchamel fritters\n\nHow to Pan Con Tomate\npà amb to
+ maquet is a staple back home\,\nlet me show you how it’s done!\n\nseguim
+ os | to continue\nPescado del Día\nwhole fish of the day cooked over \nc
+ herry wood\, Donostiarra style\n\nPresa Iberica de bellota| 22\n22 oz fr
+ om the legendary acorn-fed Iberico pork from the meadows of Jabugo\, gar
+ lic\, pà amb tomàquet\n\nParrillada de Vegetales\nlocal seasonal vegetab
+ le roasted or grilled\nserved with romesco sauce and allioli\n\nPARA TER
+ MINAR | TO FINISH\nEl Flan de la Capitana\nclassic house flan served wit
+ h \noloroso whipped cream\n\n
+URL:https://thesquare.tripleseat.com/events/38412682
+SUMMARY:[C] Wine Trade Luncheon
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240301T165507Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240403T150000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240403T130000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38419392
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38419392\n[Gue
+ sts: 22 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38419392
+SUMMARY:[C] IMF Lunch
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240304T003458Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240929T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240929T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240424T182721Z
+UID:https://thesquare.tripleseat.com/events/38449529
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38449529\n\n\n
+URL:https://thesquare.tripleseat.com/events/38449529
+SUMMARY:[D] Taiwanese American Professionals - Day 2
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240304T192628Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240306T120000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240306T114500
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38466962
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38466962\n\n[G
+ uests: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38466962
+SUMMARY:[D] Tishman Speyer Lunch Delivery
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240305T175133Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240409T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240409T110000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38492722
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38492722\n[Gue
+ sts: 100 expected]\nHI There\,\n\nIt was so great to meet you yesterday.
+   We are looking forward to hosting our Inaugural Spirits trade show.  I
+  am currently working on the budget so if you could let me know the rent
+ al fees that would be great.  Here are my notes from yesterday:\n\n \n\n
+ Event will be Tuesday April 9th 12:30pm-3pm (this will be on the invite\
+ , but we will need additional time for set up and clean up)\n\n \n\nWe w
+ ill need glassware\, dump buckets (we can bring if you don’t have any)\,
+  lots of water (perhaps a couple of stations) and ice.\n\n \n\nWe would 
+ also like to have some light food available.  Nothing crazy\, just easy 
+ things like cheese\, charcuterie\, etc.  Can you send options?\n\n \n\nI
+  will need the correct verbiage to add to our invite that will let clien
+ ts know where we will be located.\n\n \n\nI think that is everything for
+  now?\n\n \n\n@Erika Parjus did I miss anything?\n\n \n\n \n\nBest\,\n\n
+  \n\nimage\n\nfacebook\n\ninstagram\n\nlinkedin\n\nAmanda Page\, DWS\, C
+ ertified Sake Specialist\n\nVice President of Sales\, Mid-Atlantic\n\nMo
+ bile: (401) 864-0951\n\namanda@banvillewine.com\n\n5760 2nd St NE\, Wash
+ ington\, DC 20011\n\nwww.banvillewine.com\n\n \n\n
+URL:https://thesquare.tripleseat.com/events/38492722
+SUMMARY:[C] Banville Portfolio Tasting
+LOCATION:[The Square] Dupont and Logan Circle
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240305T181259Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240307T100000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240307T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240311T171020Z
+UID:https://thesquare.tripleseat.com/events/38493915
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38493915\n\n\n
+URL:https://thesquare.tripleseat.com/events/38493915
+SUMMARY:[C] JHPIEGO IT Test
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240306T155837Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240312T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240312T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38518087
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38518087\n[Gue
+ sts: 18 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38518087
+SUMMARY:[C] World Bank Farewell Party
+LOCATION:[The Square] Tapas Bar
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240306T160406Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240425T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240425T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240430T192109Z
+UID:https://thesquare.tripleseat.com/events/38518315
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38518315\n[Gue
+ sts: 80 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38518315
+SUMMARY:[C] World Bank Happy Hour
+LOCATION:[The Square] The Nook and Uptown (Stall 1)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240306T180448Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240313T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240313T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38524286
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38524286\n[Gue
+ sts: 10 expected]\nI would need help with few  basic coffee break set-up
+ s for next week 3/13.\n\n \n\nDate: Wednesday\, 3/13\n\nLocation:  Logan
+ /Dupon  Room\;  booking confirmed by Joseph\; classroom style\n\nTime:\n
+ \n8AM-10AM – 10 pax\;  coffee/tea\, water assorted pastries\, fresh frui
+ t\n\n12:30 PM-1:30PM– 5 pax\, pizza\, sodas\, water\n\n3:30PM-5:30PM – 1
+ 0 pax\,  sodas\, water and cookies/granola bars\n\n \n\nLet me know if y
+ ou want to meet. I will be at I Sq at 2:30p today and can stop by you pr
+ ior.\n\n
+URL:https://thesquare.tripleseat.com/events/38524286
+SUMMARY:[D] Tishman Speyer Training
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240306T185126Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240314T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240314T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38526632
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38526632\nWant
+ s to come in at $30 - the host is vegan and very nice\n\n
+URL:https://thesquare.tripleseat.com/events/38526632
+SUMMARY:[D] AEG Lunch
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240306T214240Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240312T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240312T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38535617
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38535617\n[Gue
+ sts: 33 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38535617
+SUMMARY:[C] IMF TRM Workshop
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240307T154301Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240320T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240320T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38547462
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38547462\n[Gue
+ sts: 18 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38547462
+SUMMARY:[D] Amida Day 1
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240307T154355Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240321T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240321T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38547485
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38547485\n[Gue
+ sts: 18 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38547485
+SUMMARY:[D] Amida Day 2
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240307T194145Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240423T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240423T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T165728Z
+UID:https://thesquare.tripleseat.com/events/38558887
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38558887\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38558887
+SUMMARY:[C] Dispatch Media Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240311T135820Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240502T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240502T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240502T160212Z
+UID:https://thesquare.tripleseat.com/events/38622983
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38622983\n[Gue
+ sts: 10 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38622983
+SUMMARY:[C] Tonia TAKYI IMF Lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240312T145048Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240321T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240321T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38705167
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38705167\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38705167
+SUMMARY:[C] Ad Victoriam Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240312T192120Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240409T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240409T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240413T174627Z
+UID:https://thesquare.tripleseat.com/events/38719293
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38719293\n[Gue
+ sts: 30 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38719293
+SUMMARY:[C] Salesforce Reception
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240313T215127Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240320T134500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240320T114500
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38759425
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38759425\n[Gue
+ sts: 19 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38759425
+SUMMARY:[C] World Bank Team lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240313T215750Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240409T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240409T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38759621
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38759621\n[Gue
+ sts: 11 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38759621
+SUMMARY:[C] BRG Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240313T230703Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240322T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240322T123000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38761316
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38761316\n[Gue
+ sts: 18 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38761316
+SUMMARY:[C] World Bank Group lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240314T160419Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240326T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240326T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38771219
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38771219\n[Gue
+ sts: 40 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38771219
+SUMMARY:[C] Mortgage Bankers Farewell Happy Hour
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240314T205950Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240408T130000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240408T113000
+LAST-MODIFIED;VALUE=DATE-TIME:20240418T195245Z
+UID:https://thesquare.tripleseat.com/events/38792556
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38792556\n[Gue
+ sts: 33 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38792556
+SUMMARY:[C] 04.08 IMF Retreat lunch
+LOCATION:[The Square] El Zocalo (Stall 4)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240315T232027Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240408T213000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240408T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240412T212947Z
+UID:https://thesquare.tripleseat.com/events/38839887
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38839887\n[Gue
+ sts: 100 expected]\nA buy out of 2 seatings with a set menu of 5 courses
+  (4 salty and 1 sweet) First seating is at 5:25PM\n\n
+URL:https://thesquare.tripleseat.com/events/38839887
+SUMMARY:[C] Tasting Collective
+LOCATION:[The Square] Casa Teresa
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240319T133812Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240325T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240325T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240326T164722Z
+UID:https://thesquare.tripleseat.com/events/38883767
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38883767\n[Gue
+ sts: 8 expected]\nGuest List of VIPS:\nNicole Quiroga – CEO Greater Wash
+ ington Hispanic Chamber of Commerce\nPaola Moya – Moya Design Group – Ar
+ chitect.  She designed Howard Theatre\, Audi Field and part of MGM Grand
+ .\nFrancisca Alonso – AV Architects – High end home builder\nPilar Lorca
+  – Owns a Personal Training Business\nEva Scott – Financial Planner\nJen
+ ny Shtipelman – Banker\n\n
+URL:https://thesquare.tripleseat.com/events/38883767
+SUMMARY:[C] Kristina Bouweiri
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240319T174349Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240321T081500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240321T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240319T174650Z
+UID:https://thesquare.tripleseat.com/events/38894578
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38894578\n\n[G
+ uests: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38894578
+SUMMARY:[D] Tishman Speyers Brekfast
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240320T201045Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240322T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240322T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240404T230119Z
+UID:https://thesquare.tripleseat.com/events/38932496
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/38932496\n[Gue
+ sts: 40 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/38932496
+SUMMARY:[C] Azeb Afework Happy Hour
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240324T161022Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240328T194500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240328T174500
+LAST-MODIFIED;VALUE=DATE-TIME:20240513T064750Z
+UID:https://thesquare.tripleseat.com/events/39003213
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39003213\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39003213
+SUMMARY:[C] Akin Gump Happy Hour
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240325T162429Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240613T230000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240613T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240619T180820Z
+UID:https://thesquare.tripleseat.com/events/39020922
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39020922\n[Gue
+ sts: 600 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39020922
+SUMMARY:[D] The Square Party Nat Geo
+LOCATION:[The Square]  The Square (Buyout)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240325T183714Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240418T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240418T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240419T150754Z
+UID:https://thesquare.tripleseat.com/events/39035098
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39035098\n[Gue
+ sts: 20 expected / 20 guaranteed]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39035098
+SUMMARY:[C] Faben Mesfen Morgan Stanley Reception
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240325T224504Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240515T150000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240515T130000
+LAST-MODIFIED;VALUE=DATE-TIME:20240528T194535Z
+UID:https://thesquare.tripleseat.com/events/39048204
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39048204\n[Gue
+ sts: 30 expected / 20 guaranteed]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39048204
+SUMMARY:[C] Spanish Embassy Lunch
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240325T230147Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240416T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240416T190000
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T164514Z
+UID:https://thesquare.tripleseat.com/events/39048596
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39048596\n[Gue
+ sts: 16 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39048596
+SUMMARY:[C] 04.16 WB Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240326T230636Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240411T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240411T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240429T163020Z
+UID:https://thesquare.tripleseat.com/events/39078624
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39078624\n[Gue
+ sts: 100 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39078624
+SUMMARY:[C] 04.11 Lunch
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240326T231215Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240412T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240412T123000
+LAST-MODIFIED;VALUE=DATE-TIME:20240429T163029Z
+UID:https://thesquare.tripleseat.com/events/39078732
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39078732\n[Gue
+ sts: 400 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39078732
+SUMMARY:[C] 04.12 Innovators Lunch
+LOCATION:[The Square]  The Square (Buyout)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240326T231300Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240412T183000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240412T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240429T164810Z
+UID:https://thesquare.tripleseat.com/events/39078745
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39078745\n[Gue
+ sts: 100 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39078745
+SUMMARY:[C] 04.12 Cocktail Reception
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240326T231448Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240413T093000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240413T083000
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T153750Z
+UID:https://thesquare.tripleseat.com/events/39078781
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39078781\n[Gue
+ sts: 240 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39078781
+SUMMARY:[C] 04.13 Innovators Breakfast
+LOCATION:[The Square]  The Square (Buyout)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240326T231548Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240413T113000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240413T104500
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T153801Z
+UID:https://thesquare.tripleseat.com/events/39078792
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39078792\n[Gue
+ sts: 130 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39078792
+SUMMARY:[C] 04.13 Bagged Lunch
+LOCATION:[The Square]  The Square (Buyout)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240327T161956Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240621T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240621T163000
+LAST-MODIFIED;VALUE=DATE-TIME:20240621T171557Z
+UID:https://thesquare.tripleseat.com/events/39090095
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39090095\n[Gue
+ sts: 100 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39090095
+SUMMARY:[D] 06.21 AMIDA BBQ
+LOCATION:[The Square] Conference Center and Roof Top
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240329T131858Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240416T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240416T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240516T125015Z
+UID:https://thesquare.tripleseat.com/events/39145634
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39145634\n[Gue
+ sts: 40 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39145634
+SUMMARY:[C] 04.16 Tapas Bar Happy Hour
+LOCATION:[The Square] Tapas Bar
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240329T163928Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240410T100000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240409T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240408T220853Z
+UID:https://thesquare.tripleseat.com/events/39150507
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39150507\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39150507
+SUMMARY:[D] 04.09 Trainig day 1 Breakfast
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240329T164243Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240411T130000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240411T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240410T190044Z
+UID:https://thesquare.tripleseat.com/events/39150610
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39150610\n[Gue
+ sts: 25 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39150610
+SUMMARY:[D] 04.11 Training Day 3
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240329T165955Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240401T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240401T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240402T154433Z
+UID:https://thesquare.tripleseat.com/events/39151264
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39151264\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39151264
+SUMMARY:[C] 04.01 World Bank Lunch
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240329T180746Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240925T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240925T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240611T165017Z
+UID:https://thesquare.tripleseat.com/events/39153559
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39153559\n[Gue
+ sts: 45 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39153559
+SUMMARY:[P] Graphika Conference 09.25 Day 2
+LOCATION:[The Square] Navy Yard\, Kalorama\, Georgetown\, and Dupont + L.
+ ..
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240401T181755Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240419T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240419T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T165318Z
+UID:https://thesquare.tripleseat.com/events/39184148
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39184148\n[Gue
+ sts: 9 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39184148
+SUMMARY:[C] 04.19- IMF-Helga Verbruggen
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240401T182522Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240403T083000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240403T081500
+LAST-MODIFIED;VALUE=DATE-TIME:20240403T130530Z
+UID:https://thesquare.tripleseat.com/events/39184456
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39184456\n\n\n
+ \n
+URL:https://thesquare.tripleseat.com/events/39184456
+SUMMARY:[C] 04.03-Robin Hotaling
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240402T162249Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240409T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240409T153000
+LAST-MODIFIED;VALUE=DATE-TIME:20240405T144420Z
+UID:https://thesquare.tripleseat.com/events/39205828
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39205828\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39205828
+SUMMARY:[D] 04.09 Training day 1 Snacks
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240402T164202Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240410T100000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240410T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240405T144420Z
+UID:https://thesquare.tripleseat.com/events/39206797
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39206797\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39206797
+SUMMARY:[D] 04.10 Trainig day 2 Breakfast
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240402T164205Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240410T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240410T153000
+LAST-MODIFIED;VALUE=DATE-TIME:20240405T144420Z
+UID:https://thesquare.tripleseat.com/events/39206799
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39206799\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39206799
+SUMMARY:[D] 04.10 Training day 2 Snacks
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240402T180733Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240408T164500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240408T130000
+LAST-MODIFIED;VALUE=DATE-TIME:20240415T202957Z
+UID:https://thesquare.tripleseat.com/events/39211326
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39211326\n[Gue
+ sts: 33 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39211326
+SUMMARY:[C] 04.08 IMF Retreat Meeting
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240402T180847Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240408T181500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240408T164500
+LAST-MODIFIED;VALUE=DATE-TIME:20240415T202957Z
+UID:https://thesquare.tripleseat.com/events/39211390
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39211390\n[Gue
+ sts: 33 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39211390
+SUMMARY:[C] 04.08 IMF Happy Hour
+LOCATION:[The Square] The Lounge
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240402T192409Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240410T143000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240410T123000
+LAST-MODIFIED;VALUE=DATE-TIME:20240413T175610Z
+UID:https://thesquare.tripleseat.com/events/39215256
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39215256\n[Gue
+ sts: 14 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39215256
+SUMMARY:[C] 04.10 IMF Nicolas Lunch
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240402T201847Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240926T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240926T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240611T162444Z
+UID:https://thesquare.tripleseat.com/events/39218055
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39218055\n[Gue
+ sts: 45 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39218055
+SUMMARY:[P] Graphika Conference 09.26 Day 3
+LOCATION:[The Square] Navy Yard\, Kalorama\, Georgetown\, and Dupont + L.
+ ..
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240402T201858Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240927T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240927T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240612T162529Z
+UID:https://thesquare.tripleseat.com/events/39218063
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39218063\n[Gue
+ sts: 45 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39218063
+SUMMARY:[P] Graphika Conference 09.27 Day 4
+LOCATION:[The Square] Navy Yard\, Kalorama\, Georgetown\, and Dupont + L.
+ ..
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240403T223546Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240418T143000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240418T123000
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T165011Z
+UID:https://thesquare.tripleseat.com/events/39257328
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39257328\n[Gue
+ sts: 18 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39257328
+SUMMARY:[C] 04.18 Karina Garcia Lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240404T183230Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240411T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240411T123000
+LAST-MODIFIED;VALUE=DATE-TIME:20240413T175639Z
+UID:https://thesquare.tripleseat.com/events/39276500
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39276500\n[Gue
+ sts: 13 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39276500
+SUMMARY:[C] 04.11 IMF Zula Lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240408T215914Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240409T101500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240409T100000
+LAST-MODIFIED;VALUE=DATE-TIME:20240413T164814Z
+UID:https://thesquare.tripleseat.com/events/39355020
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39355020\n1850
+  K St NW\n12th Floor Confrence Room\nWASHINGTON\, DC\, DC\n20006\n[Guest
+ s: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39355020
+SUMMARY:[D] Tishman Morning Buffett
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240411T165920Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240518T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240518T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240528T193328Z
+UID:https://thesquare.tripleseat.com/events/39428530
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39428530\n[Gue
+ sts: 9 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39428530
+SUMMARY:[C] 05.18 Ken's Dinner
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240412T163312Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240424T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240424T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240427T214050Z
+UID:https://thesquare.tripleseat.com/events/39455476
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39455476\n[Gue
+ sts: 13 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39455476
+SUMMARY:[C] 04.24- Samantha's IMF Lunch
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240413T170420Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240415T153000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240415T140000
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T164118Z
+UID:https://thesquare.tripleseat.com/events/39474161
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39474161\n[Gue
+ sts: 7 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39474161
+SUMMARY:[C] IMF - Lilia Kadyrberdieva
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240415T161526Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240418T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240418T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240419T150733Z
+UID:https://thesquare.tripleseat.com/events/39491059
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39491059\n[Gue
+ sts: 18 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39491059
+SUMMARY:[C] Morgan Stanley Conference Event
+LOCATION:[The Square] Logan Circle and Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240415T165622Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240416T143000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240416T123000
+LAST-MODIFIED;VALUE=DATE-TIME:20240422T195742Z
+UID:https://thesquare.tripleseat.com/events/39493121
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39493121\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39493121
+SUMMARY:[C] 04.16 Lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240415T195113Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240424T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240424T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T171427Z
+UID:https://thesquare.tripleseat.com/events/39501832
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39501832\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39501832
+SUMMARY:[C] 04.24 Diana-Tapas Bar
+LOCATION:[The Square] Tapas Bar
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240416T023729Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240507T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240507T130000
+LAST-MODIFIED;VALUE=DATE-TIME:20240510T193524Z
+UID:https://thesquare.tripleseat.com/events/39511522
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39511522\n[Gue
+ sts: 56 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39511522
+SUMMARY:[C] Milbank Lunch Conference 5.7.24
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240416T174328Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240613T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240613T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240621T150321Z
+UID:https://thesquare.tripleseat.com/events/39527828
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39527828\n[Gue
+ sts: 60 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39527828
+SUMMARY:[C] Milbank All Day Conference 6.13.24
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240416T201052Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240417T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240417T190000
+LAST-MODIFIED;VALUE=DATE-TIME:20240422T211021Z
+UID:https://thesquare.tripleseat.com/events/39535763
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39535763\n[Gue
+ sts: 16 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39535763
+SUMMARY:[C] 04.17 Cecilia Pineda Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240417T151151Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240507T113000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240507T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240603T203627Z
+UID:https://thesquare.tripleseat.com/events/39552704
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39552704\n[Gue
+ sts: 50 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39552704
+SUMMARY:[C] Build Within Conference
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240417T172024Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240423T120500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240423T115000
+LAST-MODIFIED;VALUE=DATE-TIME:20240423T163156Z
+UID:https://thesquare.tripleseat.com/events/39558870
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39558870\n1875
+  Eye Street\, NW\, Suite 1200\nWashington \, DC\n20006\n\n\n
+URL:https://thesquare.tripleseat.com/events/39558870
+SUMMARY:[C] DROP OFF: Tishman Speyer Catering Drop Off
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240417T221718Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240418T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240418T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240424T184239Z
+UID:https://thesquare.tripleseat.com/events/39595888
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39595888\n[Gue
+ sts: 80 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39595888
+SUMMARY:[D] TISHMAN SPEYER'S OFF-PROPERTY FULL CATERING: Rachel Borja Rec
+ eption Event
+LOCATION:[The Square] 5th Floor
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240418T171326Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240605T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240605T163000
+LAST-MODIFIED;VALUE=DATE-TIME:20240608T191259Z
+UID:https://thesquare.tripleseat.com/events/39623917
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39623917\n[Gue
+ sts: 40 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39623917
+SUMMARY:[C] Krueck Sexton Partners Happy Hour Reception
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240419T160735Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240423T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240423T121500
+LAST-MODIFIED;VALUE=DATE-TIME:20240610T133300Z
+UID:https://thesquare.tripleseat.com/events/39648662
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39648662\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39648662
+SUMMARY:[C] Devy  Damayanti
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240419T183234Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240423T111500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240423T110000
+LAST-MODIFIED;VALUE=DATE-TIME:20240423T205412Z
+UID:https://thesquare.tripleseat.com/events/39654411
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39654411\n1875
+  Eye Street\, NW\, Suite 1200\nWashington\, DC\n20006\n[Guests: 7 expect
+ ed]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39654411
+SUMMARY:[C] DROP OFF/SET-UP: Tishman speyer
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240419T211123Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240423T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240423T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T163149Z
+UID:https://thesquare.tripleseat.com/events/39660544
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39660544\n[Gue
+ sts: 40 expected]\nWe would like to reserve space for an event for Women
+  Networking Happy Hour on April 23 from 5:30 pm to 7:30 pm. We would lik
+ e to do the same set up as my colleague Azeb did on March 22.\n\n
+URL:https://thesquare.tripleseat.com/events/39660544
+SUMMARY:[C] Emiye Gebre World Bank Happy Hour 4.23
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240422T164420Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240425T223000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240425T193000
+LAST-MODIFIED;VALUE=DATE-TIME:20240426T183955Z
+UID:https://thesquare.tripleseat.com/events/39685512
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39685512\n[Gue
+ sts: 7 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39685512
+SUMMARY:[C] 04.25 Kamilia Souza
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240422T190143Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240513T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240513T190000
+LAST-MODIFIED;VALUE=DATE-TIME:20240521T185546Z
+UID:https://thesquare.tripleseat.com/events/39692655
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39692655\n[Gue
+ sts: 14 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39692655
+SUMMARY:[C] 05.13-Wendy's Papa
+LOCATION:[The Square] Tapas Bar
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240423T160544Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240430T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240430T130000
+LAST-MODIFIED;VALUE=DATE-TIME:20240502T151047Z
+UID:https://thesquare.tripleseat.com/events/39713147
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39713147\n[Gue
+ sts: 16 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39713147
+SUMMARY:[C] World Bank Luncheon- Victoria Y
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240423T192743Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240604T100000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240604T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240604T185339Z
+UID:https://thesquare.tripleseat.com/events/39723795
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39723795\n[Gue
+ sts: 40 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39723795
+SUMMARY:[C] Destination DC Conference
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240424T144759Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240501T183000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240501T163000
+LAST-MODIFIED;VALUE=DATE-TIME:20240502T181616Z
+UID:https://thesquare.tripleseat.com/events/39739678
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39739678\n[Gue
+ sts: 25 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39739678
+SUMMARY:[C] Tishman -Happy Hour-Jackie N 5.1.24
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240425T164933Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240819T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240819T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240425T164933Z
+UID:https://thesquare.tripleseat.com/events/39772782
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39772782\nConf
+ erence Center\n6:00pm-6:15pm \nDupont-Logan-150\nBook Signing \nReceptio
+ n \n\n
+URL:https://thesquare.tripleseat.com/events/39772782
+SUMMARY:[P] Bullford Books & The Square Presents Caroline Chamber
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240426T155120Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240430T183000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240430T163000
+LAST-MODIFIED;VALUE=DATE-TIME:20240502T144833Z
+UID:https://thesquare.tripleseat.com/events/39796120
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39796120\n[Gue
+ sts: 7 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39796120
+SUMMARY:[C] COOKING CLASS AT CASA TERESA
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240426T163238Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240429T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240429T190000
+LAST-MODIFIED;VALUE=DATE-TIME:20240503T152933Z
+UID:https://thesquare.tripleseat.com/events/39797855
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39797855\n[Gue
+ sts: 20 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39797855
+SUMMARY:[C] 04.29 IFC Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240426T165055Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240501T123000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240501T121500
+LAST-MODIFIED;VALUE=DATE-TIME:20240502T151151Z
+UID:https://thesquare.tripleseat.com/events/39798664
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39798664\n\n\n
+URL:https://thesquare.tripleseat.com/events/39798664
+SUMMARY:[C] Tishman Lunch Drop Off-Jackie N
+LOCATION:[The Square] Logan Circle and Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240426T193302Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240516T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240516T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240517T153408Z
+UID:https://thesquare.tripleseat.com/events/39806445
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39806445\n[Gue
+ sts: 90 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39806445
+SUMMARY:[C] Real Insight Event @ Concourse Conference Center 5.14.24
+LOCATION:[The Square] Dupont + Logan and The Lounge + Showroom
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240429T120217Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240502T174500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240502T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240503T143128Z
+UID:https://thesquare.tripleseat.com/events/39826520
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39826520\n1850
+  K st. \nOUTSIDE ENTRANCE \nWASHINGTON \, DC\n20006\n[Guests: 50 expecte
+ d]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39826520
+SUMMARY:[C] Exactly Agency's- 90s Theme Happy Hour
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240429T170453Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240515T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240515T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240528T194445Z
+UID:https://thesquare.tripleseat.com/events/39835630
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39835630\n[Gue
+ sts: 29 expected]\nJada Breegle (BreegleJ@lsc.gov | +12022951685) has bo
+ oked an appointment in Logan Circle - 40 Seats for a All Day Reservation
+  at 05.15.2024 08:00 AM and selected:\n\nDo you require catering:\nYes! 
+ Please send me catering information\n\n\n
+URL:https://thesquare.tripleseat.com/events/39835630
+SUMMARY:[C] LSC Meeting in Logan Circle
+LOCATION:[The Square] Logan Circle
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240501T142010Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240618T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240618T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240620T023052Z
+UID:https://thesquare.tripleseat.com/events/39885723
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39885723\n\n\n
+URL:https://thesquare.tripleseat.com/events/39885723
+SUMMARY:[C] Cureate Capstone Event
+LOCATION:[The Square] Uptown (Stall 1) and Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240501T172210Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240529T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240529T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240617T202703Z
+UID:https://thesquare.tripleseat.com/events/39896468
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39896468\nMay 
+ 29th\, \n\nBreakfast \nLunch\,\n Snacks for Each Day \n10\n8-5pm\n\nAV n
+ eed for Capital Hill (Set-up\, breakdown fee) \n\n
+URL:https://thesquare.tripleseat.com/events/39896468
+SUMMARY:[D] Humanity Event- 05.29
+LOCATION:[The Square] Navy Yard\, Georgetown\, and Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240502T180728Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240508T213000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240508T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240521T184119Z
+UID:https://thesquare.tripleseat.com/events/39926528
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39926528\n[Gue
+ sts: 11 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39926528
+SUMMARY:[C] Cleary Gottlieb Dinner- 05.08
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240502T200818Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240522T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240522T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240524T174556Z
+UID:https://thesquare.tripleseat.com/events/39932187
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39932187\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39932187
+SUMMARY:[C] Catherine's Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240503T151529Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240529T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240529T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240608T190140Z
+UID:https://thesquare.tripleseat.com/events/39945093
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39945093\n[Gue
+ sts: 60 expected]\nNut Allergies\, \n\n
+URL:https://thesquare.tripleseat.com/events/39945093
+SUMMARY:[C] Mark Jablonowski Reception 5.29.24
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240503T165944Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240523T081500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240523T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240524T160542Z
+UID:https://thesquare.tripleseat.com/events/39949306
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/39949306\n1875
+  Eye Street\, NW\, Suite 1200\nWashington\, DC\n20006\n[Guests: 11 expec
+ ted]\n\n\n
+URL:https://thesquare.tripleseat.com/events/39949306
+SUMMARY:[C] Tishman Breakfast Drop Off
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240508T143749Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240615T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240615T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T153344Z
+UID:https://thesquare.tripleseat.com/events/40061973
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40061973\n[Gue
+ sts: 10 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40061973
+SUMMARY:[C] Roxanne's Dinner
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240509T161823Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240530T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240530T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240617T203226Z
+UID:https://thesquare.tripleseat.com/events/40099135
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40099135\n\n\n
+URL:https://thesquare.tripleseat.com/events/40099135
+SUMMARY:[D] Humanity Event- 05.30
+LOCATION:[The Square] Navy Yard\, Georgetown\, and Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240509T161949Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240531T123000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240531T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240617T203329Z
+UID:https://thesquare.tripleseat.com/events/40099207
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40099207\n\n\n
+URL:https://thesquare.tripleseat.com/events/40099207
+SUMMARY:[D] Humanity Event- 05.31
+LOCATION:[The Square] Navy Yard\, Georgetown\, and Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240509T170100Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240529T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240529T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240528T191851Z
+UID:https://thesquare.tripleseat.com/events/40101062
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40101062\n[Gue
+ sts: 10 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40101062
+SUMMARY:[C] Tonia Takyi lunch - 05/29
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240509T180807Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240521T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240521T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240529T154752Z
+UID:https://thesquare.tripleseat.com/events/40109612
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40109612\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40109612
+SUMMARY:[C] Dechert’s Dinner- 05.21
+LOCATION:[The Square] Tapas Bar and El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240510T151545Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240709T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240709T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240531T173728Z
+UID:https://thesquare.tripleseat.com/events/40137092
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40137092\n\n\n
+URL:https://thesquare.tripleseat.com/events/40137092
+SUMMARY:[T] Blank Rome Casino Night
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240510T153158Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240618T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240618T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T180348Z
+UID:https://thesquare.tripleseat.com/events/40137660
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40137660\n[Gue
+ sts: 100 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40137660
+SUMMARY:[D] Full Pour Magazine Event
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240510T194401Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240717T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240717T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240621T160404Z
+UID:https://thesquare.tripleseat.com/events/40159465
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40159465\n[Gue
+ sts: 170 expected]\nWe will be hosting our “All Hands Meeting” on July 1
+ 7\, 2024. We would like to combine both Logan and Dupont Circle conferen
+ ce rooms\, (seating 100-130). This is an all-day meeting with a break fo
+ r lunch.\n \nAll guests are Andersen employees from DC and McLean (non-I
+ nt’l Square) locations.\n \n•             Date: 7/17/2024\n•            
+  Event Start Time: 9am\n•             Event End Time: 5pm\n•            
+  Guests expected: 130\n•             Set up of room: Conference style\n•
+              Additional: 2 tables needed (side of the room and back of t
+ he room for water and snacks)\n•             AV requested: Mics and AV s
+ creen\n \nWe will need to use the area outside the conference rooms for 
+ lunch. Please provide two large tables. \n \nLunch catering – to be deci
+ ded.\n \nPlease let me know if you have any questions.\n \nThanks\, \n \
+ nHira Mahmood\nExecutive Assistant\n \nAndersen\n1850 K Street NW\, Suit
+ e 675\nWashington\, DC 20006\nhira.mahmood@andersen.com\n(202) 461-3617\
+ n\n\n
+URL:https://thesquare.tripleseat.com/events/40159465
+SUMMARY:[T] Andersen All Day Conference 7.17.24
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240513T064610Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240523T194500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240523T174500
+LAST-MODIFIED;VALUE=DATE-TIME:20240529T170046Z
+UID:https://thesquare.tripleseat.com/events/40176206
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40176206\n\n\n
+URL:https://thesquare.tripleseat.com/events/40176206
+SUMMARY:[C] 05.23 Madeleine Jenkins-Happy Hour
+LOCATION:[The Square] Tapas Bar
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240514T133129Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20241008T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20241008T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240514T174912Z
+UID:https://thesquare.tripleseat.com/events/40205864
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40205864\n[Gue
+ sts: 150 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40205864
+SUMMARY:[T] Culinary Medicine Conference & Reception
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240514T151443Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240605T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240605T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240605T194802Z
+UID:https://thesquare.tripleseat.com/events/40209079
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40209079\n[Gue
+ sts: 11 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40209079
+SUMMARY:[C] World Bank- Mario Mendez
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240514T155223Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240604T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240604T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240606T213303Z
+UID:https://thesquare.tripleseat.com/events/40210700
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40210700\n[Gue
+ sts: 20 expected]\nI am interested in reserving the high-top tables near
+  the Atrium Bar for a group of about 20 people on June 4th\, from 4 to 6
+  PM.\n\n
+URL:https://thesquare.tripleseat.com/events/40210700
+SUMMARY:[C] 06.4.24-Diana Shin-Atrium Happy Hour
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240514T172517Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20241009T170800
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20241009T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240514T173016Z
+UID:https://thesquare.tripleseat.com/events/40215762
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40215762\n\n\n
+URL:https://thesquare.tripleseat.com/events/40215762
+SUMMARY:[T] Culinary Medicine Conference
+LOCATION:[The Square] Dupont\, Logan Circle\, and The Lounge + Showroom
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240515T142434Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240726T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240726T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240515T142434Z
+UID:https://thesquare.tripleseat.com/events/40236554
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40236554\n[Gue
+ sts: 35 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40236554
+SUMMARY:[P] IMF. Yazia Cabedo. 05.15.24
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240515T154356Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240604T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240604T190000
+LAST-MODIFIED;VALUE=DATE-TIME:20240605T200236Z
+UID:https://thesquare.tripleseat.com/events/40239354
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40239354\n[Gue
+ sts: 6 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40239354
+SUMMARY:[C] Jack Davis Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240515T160057Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240613T203000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240613T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240617T140852Z
+UID:https://thesquare.tripleseat.com/events/40240081
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40240081\n[Gue
+ sts: 20 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40240081
+SUMMARY:[C] Paul\, Weiss Women’s Network Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240515T201949Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240722T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240722T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240515T201949Z
+UID:https://thesquare.tripleseat.com/events/40257438
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40257438\n[Gue
+ sts: 65 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40257438
+SUMMARY:[P] Aspen Institution Buyout
+LOCATION:[The Square] Casa Teresa
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240516T151700Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240605T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240605T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240610T162355Z
+UID:https://thesquare.tripleseat.com/events/40271150
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40271150\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40271150
+SUMMARY:[C] Bea's Dinner
+LOCATION:[The Square] Tapas Bar and El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240516T155016Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240617T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240617T140000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T150204Z
+UID:https://thesquare.tripleseat.com/events/40272437
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40272437\n[Gue
+ sts: 72 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40272437
+SUMMARY:[C] HENDRIK HOLLAND. ILO OFFICE CONFERENCE. 06.17.24
+LOCATION:[The Square] Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240516T195236Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240520T213000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240520T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240524T173107Z
+UID:https://thesquare.tripleseat.com/events/40285076
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40285076\n[Gue
+ sts: 7 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40285076
+SUMMARY:[C] Cleary Gottlieb- Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240516T222514Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240717T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240717T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240516T222514Z
+UID:https://thesquare.tripleseat.com/events/40290478
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40290478\n[Gue
+ sts: 150 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40290478
+SUMMARY:[P] Digital Networking Event
+LOCATION:[The Square] Atrium Plaza and Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240517T161704Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240625T223000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240625T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240620T143801Z
+UID:https://thesquare.tripleseat.com/events/40300731
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40300731\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40300731
+SUMMARY:[D] Maggie Quinn
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240521T191420Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240618T123000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240618T093000
+LAST-MODIFIED;VALUE=DATE-TIME:20240619T201320Z
+UID:https://thesquare.tripleseat.com/events/40368827
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40368827\n[Gue
+ sts: 30 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40368827
+SUMMARY:[D] Tishman Speyers Managers Training 06.18
+LOCATION:[The Square] Dupont and Logan Circle
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240522T152816Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240725T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240725T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240603T161242Z
+UID:https://thesquare.tripleseat.com/events/40386320
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40386320\n[Gue
+ sts: 170 expected]\nTime: 8am – 6pm  \nGuests expected - 140\nConference
+  Rooms – Logan & Dupont combined\nSet up of room – auditorium style\nA/V
+  set up with mic\, presentation – in communication with Michael\n3 Large
+  trash cans\n3 Tables for snacks and lunch set up in the open space\nEle
+ vator access all day\n\nFor catering\, we reviewed the menus for The Squ
+ are. We have a number of employees with dietary restrictions\, including
+  kosher/halal\, and didn’t see these options in the menus.  We would pre
+ fer a hot lunch as opposed to sandwiches but full transparency\, the cos
+ t (including food price and all the charges and fees) is far above our b
+ udget and a pretty significant discrepancy from what we had spent on sim
+ ilar meetings in this space in the past. We want to be supportive as ten
+ ants but feel a little stuck with our options here. Are there any other 
+ options you can propose\, or can we bring in external food? It will not 
+ be through a catering company\, and we have staff who can pick up\, set 
+ up\, and clean up the food (as we have done in the past).\n\n \n\nPlease
+  let us know if you have any questions. Happy to hop on another call to 
+ discuss if that’s helpful.\n\n \n\nThank you\n\n
+URL:https://thesquare.tripleseat.com/events/40386320
+SUMMARY:[T] Andersen Conference  All Day Conference 7.25.24
+LOCATION:[The Square] Capitol Hill and Dupont + Logan
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240522T173015Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240924T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240924T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240612T162846Z
+UID:https://thesquare.tripleseat.com/events/40391711
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40391711\n[Gue
+ sts: 45 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40391711
+SUMMARY:[P] Graphika Conference- 09.24 Day 1
+LOCATION:[The Square] Navy Yard\, Kalorama\, Georgetown\, and Dupont + L.
+ ..
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240528T213543Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20241101T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20241101T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240529T161201Z
+UID:https://thesquare.tripleseat.com/events/40494772
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40494772\n[Gue
+ sts: 35 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40494772
+SUMMARY:[P] Alexa's Rehearsal Dinner
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240529T143519Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240613T183000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240613T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240616T010906Z
+UID:https://thesquare.tripleseat.com/events/40503777
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40503777\n[Gue
+ sts: 20 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40503777
+SUMMARY:[C] Paul\, Weiss Women’s Network Welcome Cocktails
+LOCATION:[The Square] Tapas Bar
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240529T191156Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240617T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240617T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240617T215256Z
+UID:https://thesquare.tripleseat.com/events/40522403
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40522403\n[Gue
+ sts: 20 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40522403
+SUMMARY:[C] Sharon Ho. Capitol Hill. 6.17
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240529T195114Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240910T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240910T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240619T193531Z
+UID:https://thesquare.tripleseat.com/events/40524583
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40524583\n[Gue
+ sts: 150 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40524583
+SUMMARY:[P] Crew Auction Fundraiser
+LOCATION:[The Square] Dupont + Logan and The Lounge
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240531T143135Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240604T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240604T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240605T195351Z
+UID:https://thesquare.tripleseat.com/events/40562927
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40562927\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40562927
+SUMMARY:[C] Jasminda Nieves Dinner
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240603T170430Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240606T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240606T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240608T193318Z
+UID:https://thesquare.tripleseat.com/events/40601020
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40601020\n[Gue
+ sts: 150 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40601020
+SUMMARY:[C] Build Within Conference
+LOCATION:[The Square] Conference Center
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240604T125410Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20250415T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20250415T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240604T130219Z
+UID:https://thesquare.tripleseat.com/events/40619134
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40619134\n\n\n
+URL:https://thesquare.tripleseat.com/events/40619134
+SUMMARY:[T] Quanta Services Reception
+LOCATION:[The Square] Georgetown and  The Square (Buyout)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240604T170704Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240605T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240605T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240605T194812Z
+UID:https://thesquare.tripleseat.com/events/40627867
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40627867\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40627867
+SUMMARY:[C] Loan Thi Phuong Nguyen Lunch
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240604T213115Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240627T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240627T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240620T182218Z
+UID:https://thesquare.tripleseat.com/events/40646257
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40646257\n[Gue
+ sts: 16 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40646257
+SUMMARY:[D] Helga Verburggen- Meeting
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240604T213236Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240627T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240627T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240620T182206Z
+UID:https://thesquare.tripleseat.com/events/40646295
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40646295\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40646295
+SUMMARY:[D] Helga Verburggen- Dinner
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240605T151211Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240713T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240713T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240607T190620Z
+UID:https://thesquare.tripleseat.com/events/40656245
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40656245\n[Gue
+ sts: 14 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40656245
+SUMMARY:[D] Mary McCormick
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240605T153022Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240606T180000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240606T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240610T195456Z
+UID:https://thesquare.tripleseat.com/events/40656993
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40656993\n[Gue
+ sts: 150 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40656993
+SUMMARY:[C] Build within Atrium Reception
+LOCATION:[The Square] Atrium Plaza and Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240606T162408Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240610T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240610T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T154041Z
+UID:https://thesquare.tripleseat.com/events/40685876
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40685876\n[Gue
+ sts: 8 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40685876
+SUMMARY:[C] Kevin Keane Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240606T173414Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240613T143000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240613T123000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T201656Z
+UID:https://thesquare.tripleseat.com/events/40688936
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40688936\n[Gue
+ sts: 12 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40688936
+SUMMARY:[D] World Bank- Dalia Ali Lunch
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240606T193241Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240618T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240618T160000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T140843Z
+UID:https://thesquare.tripleseat.com/events/40695392
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40695392\n[Gue
+ sts: 40 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40695392
+SUMMARY:[D] Tishman Speyers Managers Awards Reception
+LOCATION:[The Square] Atrium Plaza
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240607T182734Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240611T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240611T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240617T183844Z
+UID:https://thesquare.tripleseat.com/events/40726299
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40726299\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40726299
+SUMMARY:[C] Forum One Happy Hour
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240608T202813Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240613T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240613T080000
+LAST-MODIFIED;VALUE=DATE-TIME:20240613T163224Z
+UID:https://thesquare.tripleseat.com/events/40740758
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40740758\n[Gue
+ sts: 22 expected / 22 guaranteed]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40740758
+SUMMARY:[C] FHI Meeting
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240608T223732Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240909T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240909T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240608T224727Z
+UID:https://thesquare.tripleseat.com/events/40741620
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40741620\n[Gue
+ sts: 25 expected]\nHello Kathy and Joseph\,\n\n \n\n(Thank you\, JP\; mo
+ ving you to bcc).\n\n \n\nThank you for being open to the possibility of
+  allowing us to hold our September board meetings at International Squar
+ e (understanding we would cover catering and any other ancillary expense
+ s).\n\n \n\nIn terms of next steps\, if a conversation is easiest\, I’m 
+ happy to schedule at your convenience. Otherwise\, I can provide more de
+ tail in a follow up email.\n\n \n\nBest regards\,\n\n \n\nJennifer\n\n \
+ n\n \n\nJennifer Druliner | She/her/hers\n\nVice President | Governance\
+ n\nU.S. Green Building Council\n\n202.215.6577 | jdruliner@usgbc.org | u
+ sgbc.org\n\nFrom: Flaherty\, Jonathan \nSent: Monday\, May 13\, 2024 3:4
+ 9 PM\nTo: Jennifer Druliner \; Kathy Doe \; Nicynski\, Joseph \nSubject:
+  Virtual Intro\n\n \n\nPlease use caution. This message was sent from an
+  external source.\n\nFlaherty\, Jonathan \n​\nJennifer Druliner \;\n​\nK
+ athy Doe\;\n​+1 other\n​\nHello Jennifer\,\n\n \n\nConnecting you virtua
+ lly to the team at International Square. We have a conference center loc
+ ated there that have one or two rooms that could work for our September 
+ 9th board meeting.\n\n \n\nGiven my relationship as a Board Member and a
+ s an employee of TS there shouldn’t be a cost to rent the space\, as I u
+ nderstand it\, but there would be\, of course\, a cost for catering and 
+ any other ancillary expenses.\n\n \n\nI will let you take it from here @
+ Jennifer Druliner.\n\n \n\nThanks\n\n \n\n \n\nJonathan Flaherty\n\nMana
+ ging Director\n\n \n\n45 Rockefeller Plaza\, New York\, NY 10111\n\nO : 
+   +1 212-593-9495\n\nM :   +1 646-761-1790\n\n \n\nJFlahert@tishmanspeye
+ r.com\n\n \n\nShape\n\nDescription automatically generated with medium c
+ onfidence\nHello Jennifer\,\n\n \n\nConnecting you virtually to the team
+  at International Square. We have a conference center located there that
+  have one or two rooms that could work for our September 9th board meeti
+ ng.\n\n \n\nGiven my relationship as a Board Member and as an employee o
+ f TS there shouldn’t be a cost to rent the space\, as I understand it\, 
+ but there would be\, of course\, a cost for catering and any other ancil
+ lary expenses.\n\n \n\nI will let you take it from here @Jennifer Drulin
+ er.\n\n \n\nThanks\n\n \n\n \n\nJonathan Flaherty\n\nManaging Director\n
+ \n \n\n45 Rockefeller Plaza\, New York\, NY 10111\n\nO :   +1 212-593-94
+ 95\n\nM :   +1 646-761-1790\n\n \n\nJFlahert@tishmanspeyer.com\n\n \n\nS
+ hape\n\nDescription automatically generated with medium confidence\n\n
+URL:https://thesquare.tripleseat.com/events/40741620
+SUMMARY:[T] Jennifer Druliner. USGBC Conference. 09.09.24
+LOCATION:[The Square] Capitol Hill
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240610T153025Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240629T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240629T140000
+LAST-MODIFIED;VALUE=DATE-TIME:20240621T064254Z
+UID:https://thesquare.tripleseat.com/events/40752130
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40752130\n[Gue
+ sts: 500 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40752130
+SUMMARY:[D] FRIENDS IN DC
+LOCATION:[The Square]  The Square (Buyout)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240611T163714Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240718T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240718T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240621T160811Z
+UID:https://thesquare.tripleseat.com/events/40781857
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40781857\n[Gue
+ sts: 100 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40781857
+SUMMARY:[T] DCSW RECEPTION 7.18.24
+LOCATION:[The Square] Uptown (Stall 1)
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240611T164057Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20241024T230000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20241024T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240611T170052Z
+UID:https://thesquare.tripleseat.com/events/40782015
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40782015\n[Gue
+ sts: 600 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40782015
+SUMMARY:[T] DCSW EVENT 10.24.24
+LOCATION:[The Square] 5th Floor
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240611T204945Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240730T160000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240730T090000
+LAST-MODIFIED;VALUE=DATE-TIME:20240611T204945Z
+UID:https://thesquare.tripleseat.com/events/40796164
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40796164\n[Gue
+ sts: 150 expected]\nMeeting 150 people- Tuesday\, July 30th \nall day ev
+ ent- 9-4pm \n\n
+URL:https://thesquare.tripleseat.com/events/40796164
+SUMMARY:[T] Faenita Dilworth
+LOCATION:[The Square] Navy Yard\, Kalorama\, Dupont\, Logan Circle\, and 
+ ...
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240611T214837Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240713T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240713T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240614T181732Z
+UID:https://thesquare.tripleseat.com/events/40798593
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40798593\n[Gue
+ sts: 30 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40798593
+SUMMARY:[D] Yasmins Baby Shower
+LOCATION:[The Square] Dupont + Logan and The Lounge
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240612T165553Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240618T094500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240618T093000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T142013Z
+UID:https://thesquare.tripleseat.com/events/40812307
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40812307\n1875
+  Eye Street\, NW\, Suite 1200\nWashington\, DC\n20006\n[Guests: 20 expec
+ ted]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40812307
+SUMMARY:[C] Tishman Speyer's Drop Off 06.18.24
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240612T175634Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240617T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240617T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T142000Z
+UID:https://thesquare.tripleseat.com/events/40814969
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40814969\n[Gue
+ sts: 72 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40814969
+SUMMARY:[C] 6.17.24 ILO RECEPTION
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240613T140142Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240619T193000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240619T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240615T135759Z
+UID:https://thesquare.tripleseat.com/events/40831923
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40831923\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40831923
+SUMMARY:[D] 6.19 Watergate Management Team Happy Hour
+LOCATION:[The Square] Tapas Bar
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240613T174124Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240711T220000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240711T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240613T181328Z
+UID:https://thesquare.tripleseat.com/events/40841065
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40841065\n[Gue
+ sts: 22 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40841065
+SUMMARY:[P] TCIS/Habitat for Humanity International Inc. Leadership Retre
+ at Dinner
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240613T194723Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240618T150000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240618T130000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T154608Z
+UID:https://thesquare.tripleseat.com/events/40846511
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40846511\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40846511
+SUMMARY:[D] Armanda World Bank
+LOCATION:[The Square] Teresa's Table
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240618T151608Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240620T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240620T123000
+LAST-MODIFIED;VALUE=DATE-TIME:20240621T162142Z
+UID:https://thesquare.tripleseat.com/events/40921493
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40921493\n[Gue
+ sts: 20 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40921493
+SUMMARY:[C] Cleary Gottlieb Lunch
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240618T154134Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240624T210000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240624T183000
+LAST-MODIFIED;VALUE=DATE-TIME:20240620T204450Z
+UID:https://thesquare.tripleseat.com/events/40922608
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40922608\n[Gue
+ sts: 7 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40922608
+SUMMARY:[T] Enrique Crespo
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240618T185046Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240710T121500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240710T120000
+LAST-MODIFIED;VALUE=DATE-TIME:20240620T023917Z
+UID:https://thesquare.tripleseat.com/events/40932730
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40932730\n1875
+  Eye Street\, NW\, \nSuite 1200\nWashington\, DC\n20006\n\n\n
+URL:https://thesquare.tripleseat.com/events/40932730
+SUMMARY:[T] 7.10.24 Tishman Drop off
+LOCATION:[The Square] 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240618T203520Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240710T213000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240710T180000
+LAST-MODIFIED;VALUE=DATE-TIME:20240618T204231Z
+UID:https://thesquare.tripleseat.com/events/40937954
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40937954\n[Gue
+ sts: 15 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40937954
+SUMMARY:[P] Kaitlyn Dinner
+LOCATION:[The Square] El Celler
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240619T202940Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240905T200000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240905T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240620T211829Z
+UID:https://thesquare.tripleseat.com/events/40960687
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40960687\n[Gue
+ sts: 150 expected / 200 guaranteed]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40960687
+SUMMARY:[P] World Bank Retirement Party
+LOCATION:[The Square] Atrium Plaza and Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240620T201645Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240625T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240625T173000
+LAST-MODIFIED;VALUE=DATE-TIME:20240621T162939Z
+UID:https://thesquare.tripleseat.com/events/40984022
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40984022\n[Gue
+ sts: 30 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40984022
+SUMMARY:[D] Tishman & Georgetown Reception
+LOCATION:[The Square] Atrium Bar 
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20240621T161649Z
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20240718T190000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20240718T170000
+LAST-MODIFIED;VALUE=DATE-TIME:20240621T162611Z
+UID:https://thesquare.tripleseat.com/events/40997277
+DESCRIPTION:Event: https://thesquare.tripleseat.com/events/40997277\n[Gue
+ sts: 200 expected]\n\n\n
+URL:https://thesquare.tripleseat.com/events/40997277
+SUMMARY:[P] US DIGITAL SERVICE RECEPTION
+LOCATION:[The Square] Atrium Plaza and Atrium Bar 
+END:VEVENT
+END:VCALENDAR
